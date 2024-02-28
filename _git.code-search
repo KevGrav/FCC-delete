@@ -1,0 +1,10 @@
+# Query: .git
+# ContextLines: 1
+
+1 result - 1 file
+
+package.json:
+  15      "type": "git",
+  16:     "url": "https://github.com:KevGrav/FCC-header-parser.git"
+  17    },
+  
